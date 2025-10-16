@@ -1,7 +1,3 @@
-Tam Emir 😎, tüm **CustomMace** ifadelerini **JazzyMace** olarak güncelledim. İşte hem İngilizce hem Türkçe halleriyle README:
-
----
-
 # 🔨 JazzyMace Plugin (1.17 – 1.20.4)
 
 **English:**
