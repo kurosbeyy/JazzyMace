@@ -28,20 +28,6 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 ---
 
-📦 **Notes / Notlar**
-
-**English:**
-
-* `GurzPlugin.rar` → Plugin source code
-* `newgurz.rar` → Resource pack for JazzyMace textures
-
-**Türkçe:**
-
-* `GurzPlugin.rar` → Eklenti kaynak kodu
-* `newgurz.rar` → JazzyMace dokuları için resource pack
-
----
-
 📜 **Commands / Komutlar**
 
 **English:**
@@ -71,3 +57,17 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 * `jazzymace.use` → `/mace` komutunu kullanabilir
 * `jazzymace.reload` → `/macereload` komutunu kullanabilir
 * `jazzymace.enchant` → `/maceenchant` komutunu kullanabilir
+
+---
+
+📌 **Credits / Kaynaklar**
+
+**English:**
+
+* Based on **CustomMace** by [LemonyMC](https://github.com/LemonyMC-Dev/CustomMace)
+* This version is **enhanced and actively developed** by the JazzyMace team.
+
+**Türkçe:**
+
+* Kaynak: **CustomMace** by [LemonyMC](https://github.com/LemonyMC-Dev/CustomMace)
+* Bu sürüm **geliştirilmiş ve aktif olarak JazzyMace ekibi tarafından geliştirilmektedir**.
