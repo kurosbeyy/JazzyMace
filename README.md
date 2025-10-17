@@ -50,13 +50,13 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 * `jazzymace.use` → Access `/mace`
 * `jazzymace.reload` → Access `/macereload`
-* `jazzymace.enchant` → Access `/maceenchant`
+* `jazzymace.enchant` → Access `/macebuyu`
 
 **Türkçe:**
 
 * `jazzymace.use` → `/mace` komutunu kullanabilir
 * `jazzymace.reload` → `/macereload` komutunu kullanabilir
-* `jazzymace.enchant` → `/maceenchant` komutunu kullanabilir
+* `jazzymace.enchant` → `/macebuyu` komutunu kullanabilir
 
 ---
 
