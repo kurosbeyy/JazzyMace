@@ -34,13 +34,13 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 * `/mace` → Gives the player the JazzyMace
 * `/macereload` → Reloads the plugin configuration
-* `/maceenchant <enchantment> <level>` → Apply enchantments to the JazzyMace
+* `/macebuyu <enchantment> <level>` → Apply enchantments to the JazzyMace
 
 **Türkçe:**
 
 * `/mace` → JazzyMace verir
 * `/macereload` → Eklenti ayarlarını yeniler
-* `/maceenchant <enchantment> <level>` → JazzyMace’e enchant uygular
+* `/macebuyu <enchantment> <level>` → JazzyMace’e enchant uygular
 
 ---
 
